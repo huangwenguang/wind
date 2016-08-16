@@ -16,7 +16,7 @@ qDbManager::~qDbManager()
 }
 
 /**连接数据库
- * @brief qReadisTest::createConnection
+ * @brief qDbManager::createConnection
  * @return
  */
 bool qDbManager::createConnection()
