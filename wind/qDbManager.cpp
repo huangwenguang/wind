@@ -15,7 +15,7 @@ qDbManager::~qDbManager()
      delete m_redis;
 }
 
-/**连接数据库
+/**连接数据库11
  * @brief qDbManager::createConnection
  * @return
  */
